@@ -10,6 +10,7 @@ build/
 packs/
 downloads/
 misc/
+textures/
 
 # Windows Stuff #
 Thumbs.db

@@ -1,0 +1,13 @@
+{
+   "pack":{
+      "pack_format":1,
+      "description": "Vattic\u0027s Faithful 32x32 pack, edited for BevoLJ"
+   },
+   "language":{
+      "en_BV":{
+         "name":"Bevonian English",
+         "region":"Bevopolis",
+         "bidirectional":false
+      }
+   }
+}

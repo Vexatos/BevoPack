@@ -1,0 +1,66 @@
+
+language.name=Bevonian
+language.region=BV
+language.code=en_BV
+
+options.languageWarning=This pack was made for BevoLJ and is most likely not correct
+
+menu.quit=Quit Game
+menu.returnToMenu=Save and Quit to Title
+menu.disconnect=Disconnect
+menu.returnToGame=Back to Fun Stuff
+menu.switchingLevel=Switching worlds
+menu.generatingLevel=Generating Bevotopia
+menu.generatingTerrain=Generating Bevotopia
+menu.convertingLevel=Converting world
+menu.simulating=Simulating the world for a bit
+menu.respawning=Respawning
+menu.shareToLan=Open to LAN
+
+selectWorld.title=Select World
+selectWorld.empty=empty
+selectWorld.world=World
+selectWorld.select=Play Selected World
+selectWorld.create=Create New World
+selectWorld.recreate=Re-Create
+selectWorld.createDemo=Play New Demo World
+selectWorld.delete=Delete
+selectWorld.rename=Rename
+selectWorld.deleteQuestion=Are you sure you want to delete this world?
+selectWorld.deleteWarning=will be lost forever! (A long time!)
+selectWorld.deleteButton=Delete
+selectWorld.renameButton=Rename
+selectWorld.renameTitle=Rename World
+selectWorld.conversion=Must be converted!
+selectWorld.newWorld=New World
+selectWorld.newWorld.copyOf=Copy of %s
+selectWorld.enterName=World Name
+selectWorld.resultFolder=Will be saved in:
+selectWorld.enterSeed=Seed for the World Generator
+selectWorld.seedInfo=Leave blank for a random seed
+selectWorld.cheats=Cheats
+selectWorld.customizeType=Customize
+
+gameMode.survival=Survival (Fun) Mode
+gameMode.creative=Creative (Test) Mode
+gameMode.adventure=Adventure Mode
+gameMode.hardcore=Hardcore Mode!
+gameMode.changed=Your game mode has been updated
+
+selectServer.select=Let the fun begin!
+
+multiplayer.downloadingTerrain=Downloading all the things
+multiplayer.stopSleeping=Leave Bed
+multiplayer.player.joined=%s came into play
+multiplayer.player.left=%s said Goodbye and vanished
+
+connect.connecting=Attempting to join the fun stuff...
+
+entity.PrimedTnt.name=Block of Doom
+
+death.fell.accident.ladder=%1$s could not hold on to a ladder
+death.attack.inWall=%1$s suffocated in a wall or glitch
+death.attack.cactus=%1$s tried to hug a cactus
+deathScreen.respawn=Try again!
+
+potion.confusion=Weird things

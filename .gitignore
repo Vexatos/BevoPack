@@ -1,0 +1,20 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+# To ignore misc files #
+build.properties
+build/
+packs/
+downloads/
+misc/
+
+# Windows Stuff #
+Thumbs.db
+.DS_Store
+
+build.bat
+clean.bat
+/bin

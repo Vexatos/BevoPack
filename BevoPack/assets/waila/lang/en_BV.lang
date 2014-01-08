@@ -1,0 +1,12 @@
+#Bevonian lang file
+
+screen.button.waila=Walia
+
+choice.showhidewaila=Show/Hide Walia
+
+waila.keybind.wailaconfig=[Walia] Config screen
+waila.keybind.wailadisplay=[Walia] Show/Hide
+waila.keybind.liquid=[Walia] Show liquids
+waila.keybind.recipe=[Walia] Show recipe
+waila.keybind.usage=[Walia] Show usage
+waila.keybind.testing=[Walia] Testing

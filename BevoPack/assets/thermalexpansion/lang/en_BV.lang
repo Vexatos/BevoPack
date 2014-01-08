@@ -1,0 +1,4 @@
+# Bevonian language file
+tile.thermalexpansion.machine.rockGen.name=Ingenious Extruder
+tile.thermalexpansion.machine.transposer.name=Liquid Transposer
+info.thermalexpansion.neihandler.transposer=Liquid Transposer

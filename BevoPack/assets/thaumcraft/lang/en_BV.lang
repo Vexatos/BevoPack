@@ -1,3 +1,5 @@
 #Bevonian lang file
 
 item.ItemThaumonomicon.name=Thaumonominomicon
+tc.research_name.THAUMONOMICON=Thaumonomicon
+tc.research_text.THAUMONOMICON=Thaumonominomicon!

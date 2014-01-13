@@ -4,6 +4,10 @@ language.region=BV
 language.code=en_BV
 
 options.languageWarning=This pack was made for BevoLJ and is most likely not correct
+options.graphics.fancy=Fancy Pantsy
+options.graphics.fast=Boring (Fast)
+options.graphicsDesc0='Fancy Pantsy': Enables extra transparency and Fanciness.
+options.graphicsDesc1='Boring (Fast)': Suggested for lower-end hardware, looks rather boring on Youtube.
 
 menu.quit=Quit Game
 menu.returnToMenu=Save and Quit to Title
@@ -64,3 +68,4 @@ death.attack.cactus=%1$s tried to hug a cactus
 deathScreen.respawn=Try again!
 
 potion.confusion=Weird things
+potion.prefix.fancy=Fancy Pantsy

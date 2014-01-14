@@ -3,3 +3,5 @@ enderio.itemEnderface=Bevoface
 
 enderio.blockConduitFacade=Conduit Falafel
 enderio.itemConduitFacade=Conduit Falafel
+
+enderio.itemEnderface.noSync=Bevoface not synchronized with EnderIO.

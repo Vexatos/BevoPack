@@ -8,3 +8,5 @@ It is entirely made for fun, and nothing else.
 ###License:
 
 The BevoPack Resource Pack is licensed under Calclavia's Educational Public License (http://calclavia.com/educational-public-license/). By using or interacting with this software in any way shape or form, you agree to the license of this software.
+
+The BevoPack Resource Pack's download contains textures from Vattic's faithful 32x32 pack, which you can find at http://www.minecraftforum.net/topic/72747-

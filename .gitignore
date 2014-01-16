@@ -8,9 +8,9 @@
 build.properties
 build/
 packs/
+packs_lang_only/
 downloads/
 misc/
-textures/
 
 # Windows Stuff #
 Thumbs.db

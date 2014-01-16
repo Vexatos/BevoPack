@@ -1,0 +1,13 @@
+{
+   "pack":{
+      "pack_format":1,
+      "description": "This version is meant for bad PCs, it has no 32x textures"
+   },
+   "language":{
+      "en_BV":{
+         "name":"Bevonian English",
+         "region":"Bevopolis",
+         "bidirectional":false
+      }
+   }
+}

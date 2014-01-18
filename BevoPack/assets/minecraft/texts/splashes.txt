@@ -1,3 +1,4 @@
+Has an ending!
 WOOT!
 Good day everybody, Bevo here!
 Exciting!
@@ -14,36 +15,15 @@ Made for BevoLJ!
 Random Splash text!
 Awesome community!
 20% bug free!
-Pretty!
-Indie!
+Bevo likes it!
 Notch <3 ez!
 Music by C418!
-150% hyperbole!
 Cogitas ergo es!
-SMP==Super Macroscopic Party!
 Works with Internet!
-Google anlyticsed!
-Undefeated!
 Follow the train, CJ!
-Leveraging synergy!
-This message will never appear on the splash screen, isn't that weird?
-Pumpkinhead!
-Hobo humping slobo babe!
-Made by Jeb!
-Has an ending!
-Finally complete!
-Feature packed!
-Boots with the fur!
-Stop, hammertime!
-Testificates!
 Déjà vu!
-日本ハロー！
-한국 안녕하세요!
-Helo Cymru!
-Cześć Polsko!
-你好中国！
-Привет Россия!
 Γεια σου Ελλάδα!
-§1C§2o§3l§4o§5r§6m§7a§8t§9i§ac
-§kFUNKY LOL
+§1B§2e§3v§4o§5L§6J
+§kBEVO LOL
 .party()!
+BevoLJ bevo = new BevoLJ(cool);

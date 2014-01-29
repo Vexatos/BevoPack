@@ -1,7 +1,10 @@
 #Bevonian lang file
 tile.BasicBlock.OsmiumBlock.name=Osium Block
 tile.MachineBlock.OsmiumCompressor.name=Osium Compressor
+tile.MachineBlock.MetallurgicInfuser.name=Metallurgenic Infuser
+
 tile.OreBlock.OsmiumOre.name=Osium Ore
+
 item.osmiumDust.name=Osium Dust
 item.osmiumClump.name=Osium Clump
 item.dirtyOsmiumDust.name=Dirty Osium Dust
@@ -12,6 +15,7 @@ item.OsmiumHelmet.name=Osium Helmet
 item.OsmiumChestplate.name=Osium Chestplate
 item.OsmiumLeggings.name=Osium Leggings
 item.OsmiumBoots.name=Osium Boots
+
 item.OsmiumPaxel.name=Osium Paxel
 item.OsmiumPickaxe.name=Osium Pickaxe
 item.OsmiumAxe.name=Osium Axe

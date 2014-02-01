@@ -1,0 +1,6 @@
+#Bevonian lang file
+item.upgrade.side.hopper.name=Hopper falafel
+item.upgrade.side.redstone.name=Redstone falafel
+
+text.jabba.facade_redstone=This falafel requires a redstone core update.
+text.jabba.facade_hopper=This falafel requires a hopper core update.

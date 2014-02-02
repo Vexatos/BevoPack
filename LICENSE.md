@@ -1,6 +1,9 @@
 #Educational Public License
 by Calclavia
+
 Version 1.0.
+
+
 The following license is subject to change at anytime with or without notice and will take effect immediately. By using this license, you agree to all the following terms below.
 
 ##Summary

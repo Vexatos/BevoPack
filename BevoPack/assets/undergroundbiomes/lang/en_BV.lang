@@ -1,0 +1,12 @@
+#Bevonian lang file
+tile.igneousStone.redGranite.name=Aurey's Granite
+tile.igneousStone.blackGranite.name=Greg's Granite
+
+tile.igneousCobblestone.redGranite.name=Aurey's Granite Cobblestone
+tile.igneousCobblestone.blackGranite.name=Greg's Granite Cobblestone
+
+tile.igneousStoneBrick.redGranite.name=Aurey's Granite Bricks
+tile.igneousStoneBrick.blackGranite.name=Greg's Granitee Bricks
+
+tile.igneousBrickSlab.redGranite.name=Aurey's Granite Brick Slab
+tile.igneousBrickSlab.blackGranite.name=Greg's Granite Brick Slab

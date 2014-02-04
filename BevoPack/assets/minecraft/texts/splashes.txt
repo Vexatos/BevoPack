@@ -1,6 +1,7 @@
 Has an ending!
 WOOT!
 Good day everybody, Bevo here!
+Stay safe everybody!
 Exciting!
 Thank's for playing!
 Bevotastic!!
@@ -8,22 +9,18 @@ Bevotastic!!
 Pastry Fork!
 Extremely cool!!
 BevoLJ <3 AE
-Made by Notch!
-It's here!
 Minecraft!
 Made for BevoLJ!
 Random Splash text!
 Awesome community!
 20% bug free!
 Bevo likes it!
-Notch <3 ez!
 Music by C418!
 Cogitas ergo es!
 Works with Internet!
 Follow the train, CJ!
 Déjà vu!
-Γεια σου Ελλάδα!
 §1B§2e§3v§4o§5L§6J
 §kBEVO LOL
-.party()!
+Popular in Texas!
 BevoLJ bevo = new BevoLJ(cool);

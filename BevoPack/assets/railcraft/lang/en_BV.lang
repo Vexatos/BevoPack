@@ -1,0 +1,20 @@
+#Bevonian lang file
+gui.surveyor.wrong=Not a valid Signal
+
+signal.block.signal.dual=Dual-Head Signal
+signal.block.signal=Signal
+
+track.switch.tip=I am a Switch track!\n Please use me <3
+track.reinforced.switch.tip=I am a Switch track!\n I am strong!
+track.slow.switch.tip=I am a Switch track!\n I am made of wood :D
+track.speed.switch.tip=I am a Switch track!\n I am stylish!
+track.wye.tip=Hi, I'm a Wye!
+track.slow.wye.tip=Hi, I'm a Wye!\n I'm sure you have never made anything as expensive as me before :D
+track.reinforced.wye.tip=Hi, I'm a Wye!
+track.speed.wye.tip=Hi, I'm a Wye!
+
+track.slow.tip=Made of wood\n Pretty fancy
+track.slow.boost.tip=Somewhat expensive
+track.slow.junction.tip=Pretty expensive
+
+track.reinforced.boost.tip=It's pretty cool

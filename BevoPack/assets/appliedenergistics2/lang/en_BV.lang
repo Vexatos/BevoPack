@@ -2,4 +2,7 @@
 itemGroup.appliedenergistics2=Applied Energetics 2
 itemGroup.appliedenergistics2.facades=Applied Energetics 2 - Falafels
 
+gui.tooltips.appliedenergistics2.SearchMode_NEIAuto=Google Syncronized Auto
+gui.tooltips.appliedenergistics2.SearchMode_NEIStandard=Google Syncronized Standard
+
 item.appliedenergistics2.ItemFacade.name=Cable Falafel

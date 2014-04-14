@@ -1,0 +1,5 @@
+#Bevonian lang file
+options=Google Options
+options.keys.gui.hide=Toggle Google Visibility
+options.inventory.widgetsenabled.true=Google Enabled
+options.inventory.widgetsenabled.false=Google Disabled

@@ -9,7 +9,7 @@ The config/GregTech/GregTech.lang file might also be placed inside your instance
 ======
 License:
 
-The BevoPack Resource Pack (Language-only version) is licensed under Calclavia's Educational Public License (https://github.com/Vexatos/BevoPack/blob/master/LICENSE.md). By using or interacting with this software in any way shape or form, you agree to the license of this software.
+The BevoPack Resource Pack (Language-only version) is licensed under Calclavia's Educational Public License (as seen in the file LICENSE.txt as well as at https://github.com/Vexatos/BevoPack/blob/master/LICENSE.md). By using or interacting with this software in any way shape or form, you agree to the license of this software.
 ======
 Thank you for reading this, have fun!
 Sincerely,

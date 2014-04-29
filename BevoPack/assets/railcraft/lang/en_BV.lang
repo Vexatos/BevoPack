@@ -18,3 +18,4 @@ track.slow.boost.tip=Somewhat expensive
 track.slow.junction.tip=Pretty expensive
 
 track.reinforced.boost.tip=It's pretty cool
+track.locking.tip=Stops and holds carts\n§o§9- Hit with Crowbar to change mode -\n§o§c- Apply Redstone to enable -\n§o§3Give that Track a Whack!

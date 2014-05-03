@@ -2,3 +2,7 @@
 item.ItemThaumonomicon.name=Thaumonominomicon
 tc.research_name.THAUMONOMICON=Thaumonomicon
 tc.research_text.THAUMONOMICON=Thaumonominomicon!
+
+item.ItemGoggles.name=Googles of Revealing
+tc.research_name.GOGGLES=Googles of Revealing
+tc.research_text.GOGGLES=I hope I don't get sued for this name

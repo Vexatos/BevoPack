@@ -1562,7 +1562,7 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_Cutter.name=Plate Cutting Machine
     S:tile.BlockMetaID_Machine.GT_DieselGenerator.name=Diesel Generator
     S:tile.BlockMetaID_Machine.GT_DigitalTank.name=Digital Tank
-    S:tile.BlockMetaID_Machine.GT_DistillationTower.name=Distillation Tower
+    S:tile.BlockMetaID_Machine.GT_DistillationTower.name=Dissiltation Tower
     S:tile.BlockMetaID_Machine.GT_DragonEggEnergySiphon.name=Dragon Egg Energy Siphon
     S:tile.BlockMetaID_Machine.GT_Dynamo_Hatch.name=Dynamo Hatch
     S:tile.BlockMetaID_Machine.GT_E_Buffer_Large.name=Large Electric Buffer

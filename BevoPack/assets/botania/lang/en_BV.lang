@@ -1,0 +1,15 @@
+#Bevonian lang file
+itemGroup.Botania=Botana
+
+tile.botania:flower..name=Botana Flower
+
+item.botania:lexicon.name=Lexica Botana
+botania.gui.lexicon.header=Lexica Botana Index - Pick which category you would like to study:
+
+botania.entry.lexicon=Lexica Botana
+botania.page.lexicon0=The &1Lexica Botana&0 is the repository of all knowledge for all botany related matters. But you probably knew that already.<br>All information is stored here, as expected. For convenience, if a block happens to have an entry, it can be shift-right clicked with the &1Lexica Botana&0 to open that entry.
+botania.page.lexicon1=Crafting the &1Lexica Botana&0.
+
+item.botania:pestleAndMortar.name=Pettle and Mortar
+botania.page.flowers2=These flowers can be plucked for &1Mystical Petals&0, that can be used for making magical instruments and plants alike.<br>These petals can also be crushed into &1Floral Powder&0, by the use of a &1Pettle and Mortar&0, which functions much alike any mundane piece of dye.
+botania.page.flowers4=Crafting the &1Pettle and Mortar&0.

@@ -3,5 +3,7 @@ enderio.itemEnderface=Bevoface
 
 enderio.blockConduitFacade=Conduit Falafel
 item.enderio.itemConduitFacade.name=Conduit Falafel
+tile.blockPainter.tooltip.detailed.line2= Conduit Falafels, Stairs, Fences
+item.itemYetaWrench.tooltip.detailed.line1=Hides conduit falafels when held
 
 enderio.itemEnderface.noSync=Bevoface not synchronized with EnderIO.

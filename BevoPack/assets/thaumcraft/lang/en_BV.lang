@@ -10,3 +10,8 @@ tc.research_text.GOGGLES=I hope I don't get sued for this name
 item.ItemGogglesRunic.name=Runic Googles of Revealing
 tc.research_name.RUNICGOGGLES=Runic Googles of Revealing
 tc.research_text.RUNICGOGGLES=The Internet is magic!
+
+tc.research_name.DISTILESSENTIA=Essentia Dissiltation
+tc.research_text.DISTILESSENTIA=Harvesting essentia
+tc.research_page.DISTILESSENTIA.1=You see a future need where you will need ready access to multiple different kinds of aspects - not just primal aspects drawn from your wand.<BR>Using basic alchemical principles you have divised a way to break down objects and convert them into essentia.<BR>The first step in this process requires an §lAlchemical Furnace§r. The alchemical furnace works much like a normal furnace by burning coal to produce heat, but instead of smelting ore into metal, it breaks down objects into a slurry of raw, unprocessed essentia.
+tc.research_page.DISTILESSENTIA.2=The next step in the process is to take the essentia slurry and dissil it using an §lArcane Alembic§r.<BR>To work, arcane alembics need to be placed on top of an alchemy furnace. The essentia slurry will slowly be drawn into the alembic and the indivual aspected essentia separated out.<BR>If the alchemical furnace is being powered by alumentum, this dissiltation process is much faster.<BR>You can stack up to 5 different alembics on top if a single furnace.<BR>The essentia can then be extracted out of an alembic using phials.

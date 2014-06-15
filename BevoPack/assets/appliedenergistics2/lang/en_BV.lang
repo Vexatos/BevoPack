@@ -4,5 +4,28 @@ itemGroup.appliedenergistics2.facades=Applied Energetics 2 - Falafels
 
 gui.tooltips.appliedenergistics2.SearchMode_NEIAuto=Google Syncronized Auto
 gui.tooltips.appliedenergistics2.SearchMode_NEIStandard=Google Syncronized Standard
+gui.appliedenergistics2.inWorldFluix=Drop 1 Charged Cert-us Quartz + 1 Nether Quartz + Redstone Dust into a puddle next to one another and wait a moment.
+gui.appliedenergistics2.inWorldPurificationCertus=Drop a Cert-us Quartz Seed made from Cert-us Quartz Dust and Sand into a puddle of water; to make the process faster add Crystal Growth Accelerators.
+gui.appliedenergistics2.ChargedQuartz=Charged Cert-us Quartz is crafted by inserting an uncharged Certus Quartz Crystal into the Charger, and powering it.
 
 item.appliedenergistics2.ItemFacade.name=Cable Falafel
+item.appliedenergistics2.ItemCrystalSeed.Certus.name=Cert-us Quartz Seed
+item.appliedenergistics2.ItemMaterial.CertusQuartzCrystal.name=Cert-us Quartz Crystal
+item.appliedenergistics2.ItemMaterial.CertusQuartzCrystalCharged.name=Charged Cert-us Quartz Crystal
+item.appliedenergistics2.ItemMaterial.CertusQuartzDust.name=Cert-us Quartz Dust
+item.appliedenergistics2.ItemMaterial.PureifiedCertusQuartzCrystal.name=Pure Cert-us Quartz Crystal
+
+item.appliedenergistics2.ToolCertusQuartzAxe.name=Cert-us Quartz Axe
+item.appliedenergistics2.ToolCertusQuartzCuttingKnife.name=Cert-us Quartz Cutting Knife
+item.appliedenergistics2.ToolCertusQuartzHoe.name=Cert-us Quartz Hoe
+item.appliedenergistics2.ToolCertusQuartzPickaxe.name=Cert-us Quartz Pickaxe
+item.appliedenergistics2.ToolCertusQuartzSpade.name=Cert-us Quartz Shovel
+item.appliedenergistics2.ToolCertusQuartzSword.name=Cert-us Quartz Sword
+item.appliedenergistics2.ToolCertusQuartzWrench.name=Cert-us Quartz Wrench
+
+tile.appliedenergistics2.BlockQuartz.name=Cert-us Quartz Block
+tile.appliedenergistics2.BlockQuartzChiseled.name=Chiseled Cert-us Quartz Block
+tile.appliedenergistics2.BlockQuartzPillar.name=Cert-us Quartz Pillar
+tile.appliedenergistics2.OreQuartz.name=Cert-us Quartz Ore
+tile.appliedenergistics2.OreQuartzCharged.name=Charged Cert-us Quartz Ore
+

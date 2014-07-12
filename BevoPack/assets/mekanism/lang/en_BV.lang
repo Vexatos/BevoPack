@@ -7,8 +7,15 @@ tile.OreBlock.OsmiumOre.name=Osium Ore
 
 item.osmiumDust.name=Osium Dust
 item.osmiumClump.name=Osium Clump
+item.osmiumShard.name=Osium Shard
+item.osmiumCrystal.name=Osium Crystal
 item.dirtyOsmiumDust.name=Dirty Osium Dust
 item.osmiumIngot.name=Osium Ingot
+
+gas.liquidOsmium=Liquid Osium
+gas.osmium=Osium Slurry
+gas.cleanOsmium=Clean Osium Slurry
+oregas.osmium=Osium Ore
 
 //Osium
 item.OsmiumHelmet.name=Osium Helmet
@@ -22,3 +29,5 @@ item.OsmiumAxe.name=Osium Axe
 item.OsmiumShovel.name=Osium Shovel
 item.OsmiumHoe.name=Osium Hoe
 item.OsmiumSword.name=Osium Sword
+
+tooltip.OsmiumCompressor=A fairly advanced machine used to compress !nosium into various dusts in order to create !ntheir ingot counterparts.

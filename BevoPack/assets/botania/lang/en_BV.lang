@@ -1,15 +1,67 @@
 #Bevonian lang file
-itemGroup.Botania=Botana
+itemGroup.Botana=Botana
 
 tile.botania:flower..name=Botana Flower
 
 item.botania:lexicon.name=Lexica Botana
 botania.gui.lexicon.header=Lexica Botana Index - Pick which category you would like to study:
 
+botania.gui.lexicon.header=Lexica Botana, %s Edition's Index - Pick which category you would like to study:
+
 botania.entry.lexicon=Lexica Botana
 botania.page.lexicon0=The &1Lexica Botana&0 is the repository of all knowledge for all botany related matters. But you probably knew that already.<br>All information is stored here, as expected. For convenience, if a block happens to have an entry, it can be shift-right clicked with the &1Lexica Botana&0 to open that entry.
 botania.page.lexicon1=Crafting the &1Lexica Botana&0.
+botania.page.lexicon2=The &1Lexica Botana&0's title can also be customized. By placing it in an &1Anvil&0 and renaming it, one can not only change it's cover, but also the title.<br>The Edition of the lexica shown equates to the version of the &4Botana&0 you're running, and no, I don't care about the fourth wall.
+botania.page.lexicon3=Any entries typed in &oItalics&r are &4basic&0 entries, which contain the very basic knowledge required to playing Botana. They should be prioritized over others, most of the sections contain one or more, so a good look through through them is a good idea.
 
 item.botania:pestleAndMortar.name=Pettle and Mortar
 botania.page.flowers2=These flowers can be plucked for &1Mystical Petals&0, that can be used for making magical instruments and plants alike.<br>These petals can also be crushed into &1Floral Powder&0, by the use of a &1Pettle and Mortar&0, which functions much alike any mundane piece of dye.
 botania.page.flowers4=Crafting the &1Pettle and Mortar&0.
+
+botania.page.elfMessage2=&oAfter some discussion with the high council of Elven Garde, we have decided to cooperate with you. You see, reading through your "Lexica Botana" has shown us a good amount of resources from your world that we would be extremely keen as to get our hands on, as these are non-existant in our lands.
+
+# VERSION CHECKING
+botania.versioning.flavour0=NANI SORE!? BOTANIA IS OUTDATED!?
+botania.versioning.flavour1=What do you mean Botana is outdated, you ignorant fool?
+botania.versioning.flavour2=It's not like Botana wants to be outdated, b-b-BAKA!
+botania.versioning.flavour3=Beam me up Scotty. We got a new Botana version.
+botania.versioning.flavour4=The Botana update asks if you have you accepted Vazkii as your lord and saviour.
+botania.versioning.flavour5=Hey, a Botana update, that's rare, isn't it?
+botania.versioning.flavour6=What does the scouter say about the Botana update?
+botania.versioning.flavour7=Oi mate, there's a new Botana update. Why am I australian?
+botania.versioning.flavour8=Because having a life is too mainstream, here's a Botana update.
+botania.versioning.flavour9=Thank you based Botana update.
+botania.versioning.flavour10=Two hundred updates, that's why they call me Mister Fahrenheit.
+botania.versioning.flavour11=Perry the Platypus, I present to you, Botana-update-inator.
+botania.versioning.flavour12=Botana updated. #hoennconfirmed
+botania.versioning.flavour13=You activated my Trap Card! I play Botana Update!
+botania.versioning.flavour14=Let's play a drinking game, have a drink every time Botana updates. *hic*
+botania.versioning.flavour15=Pay no attention to the Botana update behind the curtain.
+botania.versioning.flavour16=You get an update! You get an update! EVERYONE GETS AN UPDATE! 
+botania.versioning.flavour17=Your build's unbalanced and your hair's a Kuriboh! Hey. Hoo. 
+botania.versioning.flavour18=WhY iS tHiS uPdAtE mEsSaGe CaSeD lIkE tHiS!? 
+botania.versioning.flavour19=By updating botania you must not accept the terms of service. 
+botania.versioning.flavour20=wow such botania so update much fix very content 
+botania.versioning.flavour21=This botania update will self destruct in 3...2...
+botania.versioning.flavour22=There were bugs in botania, but everything changed when the fire nation attacked. Or not. 
+botania.versioning.flavour23=Botana updated. On other news, Germany totally bribed the referee. 
+botania.versioning.flavour24=Hey! Hey player! Hey player! Hey player hey! Botana update! 
+botania.versioning.flavour25=And what do we say to the Botana update? 
+botania.versioning.flavour26=And I grabbed the Botana update AND I THREW IT ON THE GROUND! MAAAN! 
+botania.versioning.flavour27=If you can break wood with your fists, why don't you update Botana too? 
+botania.versioning.flavour28=BotanaWow! You'll say wow every time! As seen on your chat log! 
+botania.versioning.flavour29=Just update it, update it, update it, update it! No one wants to be outdated! 
+botania.versioning.flavour30=Botana used Update! It's super effective! 
+botania.versioning.flavour31=A new Botana update is available, now 20% cooler.
+botania.versioning.flavour32=Congratulations! You're the 100,000th Botana player with an outdated version, click HERE for a free iPad!
+botania.versioning.flavour33=Before you update your Botana version, would you like to install the ask toolbar?
+botania.versioning.flavour34=Back on the Botana update treadmill. No fun required. #angbadang
+botania.versioning.flavour35=Would you become a Magical Girl for a Botana Update?
+botania.versioning.outdated=You are running Botana build %s, the latest is build %s.
+botania.versioning.updateMessage=["Click for... [",{"text":"Download","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to automatically download the latest version","color":"green"}},"clickEvent":{"action":"run_command","value":"/botania-download-latest %version%"}},"] [",{"text":"Website","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the mod's website","color":"green"}},"clickEvent":{"action":"open_url","value":"http://vazkii.us/mod/Botana/downloads.php"}},"] [",{"text":"Changelog","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the version's Changelog","color":"green"}},"clickEvent":{"action":"open_url","value":"http://vazkii.us/mod/Botana/changelog.php#%version%"}},"]"]
+botania.versioning.startingDownload=Starting download of %s. Please do not remove your hard disk.
+botania.versioning.doneDownloading=Finished downloading %s. Delete your old Botana .jar and reload your game to update.
+botania.versioning.downloadedAlready=You already downloaded the latest version. Close your game, delete the old version from your mods folder and load it again to update!
+botania.versioning.downloadingAlready=The update is already downloading, give it some time, will you?
+botania.versioning.error=Woah! It seems like something went wrong while trying to download the Botana update. Is vazkii.us down?
+botania.versioning.disabled=Sorry. This feature is currently disabled due to server host problems, it should be back soon.

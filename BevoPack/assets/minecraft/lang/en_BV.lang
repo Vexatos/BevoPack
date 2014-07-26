@@ -63,7 +63,7 @@ connect.connecting=Attempting to join the fun stuff...
 entity.PrimedTnt.name=Block of Doom
 
 death.fell.accident.ladder=%1$s could not hold on to a ladder
-death.fell.accident.generic=%1$s derped to death. Learn to fall properly!
+death.fell.accident.generic=Uh oh, %1$s fell to his death. Next time, learn how to fall properly!
 death.attack.inWall=%1$s suffocated in a wall or glitch
 death.attack.cactus=%1$s tried to hug a cactus
 deathScreen.respawn=Try again!

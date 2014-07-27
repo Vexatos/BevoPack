@@ -1,0 +1,13 @@
+{
+   "pack":{
+      "pack_format":1,
+      "description": "CyanideX\u0027s Unity pack, edited by Vexatos for BevoLJ!"
+   },
+   "language":{
+      "en_BV":{
+         "name":"Bevonian English",
+         "region":"Falafville",
+         "bidirectional":false
+      }
+   }
+}

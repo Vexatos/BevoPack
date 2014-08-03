@@ -1,6 +1,6 @@
 #Bevonian lang file
-options=Google Options
-options.keys.gui.hide=Toggle Google Visibility
-options.inventory.widgetsenabled.true=Google Enabled
-options.inventory.widgetsenabled.false=Google Disabled
-inventory.item_subsets=Search Filter
+nei.options=Google Options
+nei.options.keys.gui.hide=Toggle Google Visibility
+nei.options.inventory.widgetsenabled.true=Google Enabled
+nei.options.inventory.widgetsenabled.false=Google Disabled
+nei.inventory.item_subsets=Search Filter

@@ -1,8 +1,8 @@
 #Bevonian lang file
 railcraft.gui.surveyor.wrong=Not a valid Signal
 
-tile.railcraft.signal.block.signal.dual=Dual-Head Signal
-tile.railcraft.signal.block.signal=Signal
+tile.railcraft.signal.block.signal.dual.name=Dual-Head Signal
+tile.railcraft.signal.block.signal.name=Signal
 
 tile.railcraft.track.switch.tip=I am a Switch track!\n Please use me <3
 tile.railcraft.track.reinforced.switch.tip=I am a Switch track!\n I am strong!

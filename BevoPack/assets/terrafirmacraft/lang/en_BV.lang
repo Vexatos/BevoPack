@@ -1,0 +1,90 @@
+# Bevonian lang file
+
+# Business
+item.Ore.Bismuthinite.name=Business Ore
+item.Ore.Rich Bismuthinite.name=Rich Business Ore
+item.Ore.Poor Bismuthinite.name=Poor Business Ore
+item.Small Ore.Bismuthinite.name=Small Business Ore
+
+tile.Ore.Bismuthinite.name=Business Ore
+
+item.Bismuth Bronze Axe Head.name=Business Bronze Axe Head
+item.Bismuth Bronze Chisel Head.name=Business Bronze Chisel Head
+item.Bismuth Bronze Hammer Head.name=Business Bronze Hammer Head
+item.Bismuth Bronze Hoe Head.name=Business Bronze Hoe Head
+item.Bismuth Bronze Javelin Head.name=Business Bronze Javelin Head
+item.Bismuth Bronze Knife Blade.name=Business Bronze Knife Blade
+item.Bismuth Bronze Mace Head.name=Business Bronze Mace Head
+item.Bismuth Bronze Pick Head.name=Business Bronze Pickaxe Head
+item.Bismuth Bronze ProPick Head.name=Business Bronze Prospector's Pick Head
+item.Bismuth Bronze Saw Blade.name=Business Bronze Saw Blade
+item.Bismuth Bronze Scythe Blade.name=Business Bronze Scythe Blade
+item.Bismuth Bronze Shovel Head.name=Business Bronze Shovel Head
+item.Bismuth Bronze Sword Blade.name=Business Bronze Sword Blade
+
+item.Bismuth Bronze Axe.name=Business Bronze Axe
+item.Bismuth Bronze Chisel.name=Business Bronze Chisel
+item.Bismuth Bronze Hammer.name=Business Bronze Hammer
+item.Bismuth Bronze Hoe.name=Business Bronze Hoe
+item.Bismuth Bronze Javelin.name=Business Bronze Javelin
+item.Bismuth Bronze Knife.name=Business Bronze Knife
+item.Bismuth Bronze Mace.name=Business Bronze Mace
+item.Bismuth Bronze Pick.name=Business Bronze Pickaxe
+item.Bismuth Bronze ProPick.name=Business Bronze Prospector's Pick
+item.Bismuth Bronze Saw.name=Business Bronze Saw
+item.Bismuth Bronze Scythe.name=Business Bronze Scythe
+item.Bismuth Bronze Shovel.name=Business Bronze Shovel
+item.Bismuth Bronze Sword.name=Business Bronze Sword
+item.Bismuth Bronze Tuyere.name=Business Bronze Tuyere
+
+item.Bismuth Bronze Unfinished Helmet.name=Unfinished Business Bronze Helmet
+item.Bismuth Bronze Helmet.name=Business Bronze Helmet
+item.Bismuth Bronze Unfinished Chestplate.name=Unfinished Business Bronze Chestplate
+item.Bismuth Bronze Chestplate.name=Business Bronze Chestplate
+item.Bismuth Bronze Unfinished Greaves.name=Unfinished Business Bronze Greaves
+item.Bismuth Bronze Greaves.name=Business Bronze Greaves
+item.Bismuth Bronze Unfinished Boots.name=Unfinished Business Bronze Boots
+item.Bismuth Bronze Boots.name=Business Bronze Boots
+
+item.Bismuth Bronze Unshaped.name=Unshaped: Business Bronze
+item.Bismuth Unshaped.name=Unshaped: Business
+
+item.Bismuth Bronze Ingot.name=Business Bronze Ingot
+item.Bismuth Ingot.name=Business Ingot
+item.Bismuth Bronze Double Ingot.name=Business Bronze Double Ingot
+item.Bismuth Double Ingot.name=Business Double Ingot
+item.Bismuth Bronze Sheet.name=Business Bronze Sheet
+item.Bismuth Sheet.name=Business Sheet
+item.Bismuth Bronze Double Sheet.name=Business Bronze Double Sheet
+item.Bismuth Double Sheet.name=Business Double Sheet
+tile.Anvil.Bismuth.name=Business Anvil
+tile.Anvil2.Bismuth Bronze.name=Business Bronze Anvil
+
+gui.metal.Bismuth=Business
+gui.metal.BismuthBronze=Business Bronze
+
+item.Axe Mold.Ceramic Mold Axe Bismuth Bronze.name=Axe Mold (Business Bronze)
+item.Chisel Mold.Ceramic Mold Chisel Bismuth Bronze.name=Chisel Mold (Business Bronze)
+item.Hammer Mold.Ceramic Mold Hammer Bismuth Bronze.name=Hammer Mold (Business Bronze)
+item.Hoe Mold.Ceramic Mold Hoe Bismuth Bronze.name=Hoe Mold (Business Bronze)
+item.Knife Mold.Ceramic Mold Knife Bismuth Bronze.name=Knife Mold (Business Bronze)
+item.Javelin Mold.Ceramic Mold Javelin Bismuth Bronze.name=Javelin Head Mold (Business Bronze)
+item.Mace Mold.Ceramic Mold Mace Bismuth Bronze.name=Mace Mold (Business Bronze)
+item.Pick Mold.Ceramic Mold Pick Bismuth Bronze.name=Pick Mold (Business Bronze)
+item.ProPick Mold.Ceramic Mold ProPick Bismuth Bronze.name=ProPick Mold (Business Bronze)
+item.Saw Mold.Ceramic Mold Saw Bismuth Bronze.name=Saw Mold (Business Bronze)
+item.Scythe Mold.Ceramic Mold Scythe Bismuth Bronze.name=Scythe Mold (Business Bronze)
+item.Shovel Mold.Ceramic Mold Shovel Bismuth Bronze.name=Shovel Mold (Business Bronze)
+item.Sword Mold.Ceramic Mold Sword Bismuth Bronze.name=Sword Mold (Business Bronze)
+
+# Tetarite
+item.Ore.Tetrahedrite.name=Tetarite
+item.Ore.Rich Tetrahedrite.name=Rich Tetarite
+item.Ore.Poor Tetrahedrite.name=Poor Tetarite
+item.Small Ore.Tetrahedrite.name=Small Tetarite
+tile.Ore.Tetrahedrite.name=Tetarite
+
+# Kaolite
+item.Powder.Kaolinite Powder.name=Kaolite Powder
+item.Ore.Kaolinite.name=Kaolite
+tile.Ore.Kaolinite.name=Kaolite

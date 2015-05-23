@@ -1,27 +1,55 @@
 #Bevonian lang file
-itemGroup.Botana=Botana
+itemGroup.Botania=Botana
+
+botaniamisc.noLexicon=You need a Lexica Botana in-hand to read this.
+botaniamisc.cantOpen=It doesn't seem like your Lexica Botana has this page. Perhaps it comes from an outside source...?
+botaniamisc.tutorialStarted=You have started your tutorial, follow the red arrows and read the contents to be guided through the basics of Botana!
+botaniamisc.tutorialEnded=Your tutorial is over, you should now have a basic idea of how Botana works, make sure to read through the other pages at your leisure to learn more ways of using the mod.
+
+botaniamisc.achievements=Botana Achievements
+achievement.botania:lexiconUse.desc=Open a Lexica Botana and have a look through the index
+achievement.botania:nullFlower.desc=Find a bug that lets you have an undefined Botana Flower. Don't forget to report it!
+
+botaniamisc.lexiconOptions0=Botana Options
+botaniamisc.lexiconOptions1=Configure Botana from ingame
 
 tile.botania:flower..name=Botana Flower
+tile.botania:flower..reference=If you have this, it means something went wrong, you should report it
 
 item.botania:lexicon.name=Lexica Botana
 botania.gui.lexicon.header=Lexica Botana Index - Pick which category you would like to study:
 
-botania.gui.lexicon.header=Lexica Botana, %s Edition's Index - Pick which category you would like to study:
+botania.gui.lexicon.header=Lexica Botana, %s Edition Table of Contents
+botania.gui.lexicon.wip=(This entry is a Work In Progress. It's not even its final form)
+
+botania.page.tutorial0=While one could just go through the various entries in the book at their issue, there's also a "guided tour" of sorts available. Clicking the button below will guide you through the pages useful to getting the gist of the basic concepts of Botana.
+
+botania.page.introVideo0=For those readers who are not quite readers, a short video guide covering the basics of Botana is also available. It's to keep in note that this guide acts as an aid and not a substitution for the contents of the &1Lexica Botana&0.
 
 botania.entry.lexicon=Lexica Botana
 botania.page.lexicon0=The &1Lexica Botana&0 is the repository of all knowledge for all botany related matters. But you probably knew that already.<br>All information is stored here, as expected. For convenience, if a block happens to have an entry, it can be shift-right clicked with the &1Lexica Botana&0 to open that entry.
-botania.page.lexicon1=Crafting the &1Lexica Botana&0.
-botania.page.lexicon2=The &1Lexica Botana&0's title can also be customized. By placing it in an &1Anvil&0 and renaming it, one can not only change it's cover, but also the title.<br>The Edition of the lexica shown equates to the version of the &4Botana&0 you're running, and no, I don't care about the fourth wall.
 botania.page.lexicon3=Any entries typed in &oItalics&r are &4basic&0 entries, which contain the very basic knowledge required to playing Botana. They should be prioritized over others, most of the sections contain one or more, so a good look through through them is a good idea.
+botania.page.lexicon1=Crafting the &1Lexica Botana&0.
+botania.page.lexicon2=The &1Lexica Botana&0's title can also be customized. By placing it in an &1Anvil&0 and renaming it, one can not only change its cover, but also the title.<br>The Edition of the lexica shown equates to the version of the &4Botana&0 you're running, and no, I don't care about the fourth wall.
+
+botania.page.runeAltar21=Runic creation is a rather important complex in the advancement of the botanical magics. First and foremost, though, this type of crafting requires a decent knowledge of &4Mana Manipulation&0. Before proceeding further, a read through the important entries (those in &oItalics&r) on that section of the &1Lexica Botana&0 might prove enlightening.
+botania.page.elfMessage2=&oAfter some discussion with the high council of Elven Garde, we have decided to cooperate with you. You see, reading through your "Lexica Botana" has shown us a good amount of resources from your world that we would be extremely keen as to get our hands on, as these are non-existent in our lands.
+botania.page.tcIntegration2=Helmets of Revealing (works with any Botana helm)
 
 item.botania:pestleAndMortar.name=Pettle and Mortar
-botania.page.flowers2=These flowers can be plucked for &1Mystical Petals&0, that can be used for making magical instruments and plants alike.<br>These petals can also be crushed into &1Floral Powder&0, by the use of a &1Pettle and Mortar&0, which functions much alike any mundane piece of dye.
 botania.page.flowers4=Crafting the &1Pettle and Mortar&0.
 
 botania.page.elfMessage2=&oAfter some discussion with the high council of Elven Garde, we have decided to cooperate with you. You see, reading through your "Lexica Botana" has shown us a good amount of resources from your world that we would be extremely keen as to get our hands on, as these are non-existant in our lands.
 
+thermalily.obsidian=Lavalily Needs Obsidian
+
+tile.botania:flower.thermalily.name=Lavalily
+
+botania.entry.thermalily=Lavalily
+botania.page.thermalily0=There comes a point where slow generating power, like the &1Hydroangeas&0 or the &1Endoflame&0 is not enough. An answer to that is the &1Lavalily&0, which works similarly to the &1Hydroangeas&0, except with &1Lava&0, it'll produce a very large amount of &1Mana&0 at a spurt when it consumes &1Lava&0, doing this heats up the flower, and it'll need some time to cool down before it can begin the cycle anew.
+
 # VERSION CHECKING
-botania.versioning.flavour0=NANI SORE!? BOTANIA IS OUTDATED!?
+botania.versioning.flavour0=NANI SORE!? BOTANA IS OUTDATED!?
 botania.versioning.flavour1=What do you mean Botana is outdated, you ignorant fool?
 botania.versioning.flavour2=It's not like Botana wants to be outdated, b-b-BAKA!
 botania.versioning.flavour3=Beam me up Scotty. We got a new Botana version.
@@ -57,6 +85,20 @@ botania.versioning.flavour32=Congratulations! You're the 100,000th Botana player
 botania.versioning.flavour33=Before you update your Botana version, would you like to install the ask toolbar?
 botania.versioning.flavour34=Back on the Botana update treadmill. No fun required. #angbadang
 botania.versioning.flavour35=Would you become a Magical Girl for a Botana Update?
+botania.versioning.flavour36=Why did the Botana Update cross the road? To get to the client side.
+botania.versioning.flavour37=Take that old build, watch it burn, sink in the river the updates I learned.
+botania.versioning.flavour38=This new Botana Update fits perfectly in the Super Health Space.
+botania.versioning.flavour39=Introducing the new Botana Update, now with 0% more numbers and GUIs.
+botania.versioning.flavour40=This is my Botana Update. There are many like it but this one is mine.
+botania.versioning.flavour41=What is the air-speed velocity of an unladen Botana Update?
+botania.versioning.flavour42=If you go look in the lang files, this flavour text is #42. That means you should install this Update.
+botania.versioning.flavour43=That's impossible, a Botana Update doesn't break down. It's a portuguese.
+botania.versioning.flavour44=Look at the update, now back at me, now back at the update. There's a download button there, moron.
+botania.versioning.flavour45=No, you can't have fries with your Botana Update.
+botania.versioning.flavour46=You were expecting Botana to be up to date, but it was me, Dio!
+botania.versioning.flavour47=Rumour says if you move the truck there's a Botana Update below it.
+botania.versioning.flavour48=I wonder when Bevo's updating his pack...
+botania.versioning.flavour49=1 Botana Update on the wall, 1 Botana Update on the wall.
 botania.versioning.outdated=You are running Botana build %s, the latest is build %s.
 botania.versioning.updateMessage=["Click for... [",{"text":"Download","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to automatically download the latest version","color":"green"}},"clickEvent":{"action":"run_command","value":"/botania-download-latest %version%"}},"] [",{"text":"Website","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the mod's website","color":"green"}},"clickEvent":{"action":"open_url","value":"http://vazkii.us/mod/Botana/downloads.php"}},"] [",{"text":"Changelog","color":"green","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to the version's Changelog","color":"green"}},"clickEvent":{"action":"open_url","value":"http://vazkii.us/mod/Botana/changelog.php#%version%"}},"]"]
 botania.versioning.startingDownload=Starting download of %s. Please do not remove your hard disk.

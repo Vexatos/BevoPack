@@ -60,6 +60,9 @@ multiplayer.player.left=%s said Goodbye and vanished
 
 connect.connecting=Attempting to join the fun stuff...
 
+item.porkchopRaw.name=Raw... Bacon?
+item.porkchopCooked.name=Cooked... "Bacon"
+
 entity.PrimedTnt.name=Block of Doom
 
 death.fell.accident.ladder=%1$s could not hold on to a ladder
